@@ -7,4 +7,5 @@ Some simple scripts
 -rename_files: renames all the files from a directory adding a sufix with a specified number of digits (example: photo001.png,photo002.png).
 
 Scripts can be run from the command line using ./scriptname.sh
+
 Use --help to display the arguments
